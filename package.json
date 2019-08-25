@@ -1,0 +1,22 @@
+{
+  "name": "@jchancehud/static-example",
+  "version": "0.0.1",
+  "description": "An example repo using Zeit to host static content",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "now --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JChanceHud/static-example.git"
+  },
+  "author": "Chance Hudson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JChanceHud/static-example/issues"
+  },
+  "homepage": "https://github.com/JChanceHud/static-example#readme",
+  "devDependencies": {
+    "now": "^16.1.2"
+  }
+}
